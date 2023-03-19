@@ -2,8 +2,10 @@ Code of the framework that contains Stagefright can be found here (you need an o
 https://github.com/aospo/platform_frameworks_av
 
 # Objective
-Finding as many as possible exploitable security bugs in the code statically (manual code review) without using writeups / blogposts
+Finding as many as possible exploitable security bugs in the code statically (manual code review) without using writeups / blogposts.  
+
 Estimated time it should take you is 2 weeks or more.
+
 ## Scope
 Only the code of the stagefright media library (av = audio & video)
 ## Recommended tools
